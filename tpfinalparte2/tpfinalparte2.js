@@ -1,4 +1,4 @@
-
+//https://youtu.be/GyFH8kLXMgs
 // declara variables 
 let principal; // clase 
 let willder , willizq , thebeast , candyverde , candyvioleta , candyamarillo , fondo , inicio , win , lose ,instrucciones , creditos;
